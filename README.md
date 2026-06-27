@@ -7,7 +7,7 @@ But they're just normal RBXM files with a stupid gimmick; it uses compiled bytec
 This makes it impossible to load it up normally in Roblox Studio.  
 However this decoder makes it so the RBXM file gets translated into RBXMX (roblox's xml model format).  
 
-#How to use  
+# How to use  
 download the zip  
 you need python. (and any other packages it might talk about)  
 you need the plugin you want to decode to be in the same folder as the script.  
@@ -19,5 +19,5 @@ and if you want to extract the bytecode you gotta do --sources <foldername>
 and (hopefully) it should work.  
 also dw if the decompiler (or disassembler) fails, it wont stop the main script.  
   
-#legal stuff  
+# legal stuff  
 if roblox wants me to take this down, i'll take this down since i dont want any issues with the roblox legal team.  
